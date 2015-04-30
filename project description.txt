@@ -1,0 +1,2 @@
+The idea behind the database is to keep track of customers, employees, products, etc.
+for a music store like Long & Mcquade.
